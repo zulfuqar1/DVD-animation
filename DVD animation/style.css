@@ -1,0 +1,51 @@
+body{background-color: black;}
+
+.DVD
+{
+    height: 100px;
+    width: 130px;
+
+    position: absolute;
+
+  animation: moveX 4s linear 0s infinite alternate, moveY 3.0s linear 0s infinite alternate;
+
+  animation: moveX 4s linear 0s infinite alternate, moveY 3.0s linear 0s infinite alternate;
+
+  animation: moveX 4s linear 0s infinite alternate, moveY 3.0s linear 0s infinite alternate;
+
+  animation: moveX 4s linear 0s infinite alternate, moveY 3.0s linear 0s infinite alternate;
+}
+
+@keyframes moveX {
+    from { left: 0; } 
+    to { left: 400px; }
+  }
+@keyframes moveX {
+    from { left: 0; } 
+    to { left: 400px; }
+  }
+@keyframes moveX {
+    from { left: 0; } 
+    to { left: 400px; }
+  }
+@keyframes moveX {
+    from { left: 0; } 
+    to { left: 400px; }
+  }
+  
+@keyframes moveY {
+    from { top: 0; } 
+    to { top: 200px; }
+  }
+@keyframes moveY {
+    from { top: 0; }
+    to { top: 200px; }
+  }
+@keyframes moveY {
+    from { top: 0; }
+    to { top: 200px; }
+  }
+@keyframes moveY {
+    from { top: 0; }
+    to { top: 200px; }
+  }
